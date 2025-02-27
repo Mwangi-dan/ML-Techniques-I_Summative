@@ -6,7 +6,7 @@ This project implements a **medical chatbot** using a fine-tuned **T5 transforme
 
 The chatbot is deployed in a **Streamlit-based web interface**, allowing users to enter symptoms and receive AI-generated medical insights.
 
-[Link to video](https://drive.google.com/file/d/1iOWV-JnXkgw00bRl6jc0K5WSf8PoE9JK/view?usp=sharing)
+[Link to video demo](https://drive.google.com/file/d/1iOWV-JnXkgw00bRl6jc0K5WSf8PoE9JK/view?usp=sharing)
 
 ## Features
 
