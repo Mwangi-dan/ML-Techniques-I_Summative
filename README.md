@@ -6,6 +6,8 @@ This project implements a **medical chatbot** using a fine-tuned **T5 transforme
 
 The chatbot is deployed in a **Streamlit-based web interface**, allowing users to enter symptoms and receive AI-generated medical insights.
 
+[Link to video](https://drive.google.com/file/d/1iOWV-JnXkgw00bRl6jc0K5WSf8PoE9JK/view?usp=sharing)
+
 ## Features
 
 - **Fine-tuned T5 transformer model** for generating responses.
@@ -66,11 +68,7 @@ The chatbot model is trained on a **medical symptoms dataset** with conversation
    - **BLEU Score** (for text similarity)
    - **ROUGE Score** (for recall-based evaluation)
 
-To train the model from scratch, run:
-
-```bash
-python train.py
-```
+To train the model from scratch, run the notebook
 
 ---
 
@@ -129,10 +127,5 @@ Developed by **Daniel Ndungu** as part of an AI-powered healthcare assistant pro
 
 ---
 
-## Acknowledgments
-
-- **Hugging Face** for the `T5` transformer model.
-- **Streamlit** for the web-based interface.
-- **PyTorch** for efficient model training.
 
 
